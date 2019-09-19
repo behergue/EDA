@@ -62,7 +62,7 @@ Este repositorio contiene una conjunto de problemas tomados del curso en algorit
 | Evaluar un polinomio  |[Enlace](Algorithms/ADTimplementations/polinomio.pdf) | [Enlace](Algorithms/ADTimplementations/polinomio) |
 | Los k elementos mayores | [Enlace](Algorithms/ADTimplementations/mayores.pdf) | [Enlace](Algorithms/ADTimplementations/mayores) |
 | Mandelbrot| [Enlace](Algorithms/ADTimplementations/mandelbrot.pdf) | [Enlace](Algorithms/ADTimplementations/mandelbrot) |
-| Una tarde de sábado  | [Enlace](Algorithms/ADTimplementationsv/sabado.pdf) | [Enlace](Algorithms/ADTimplementations/sabado) |
+| Una tarde de sábado  | [Enlace](Algorithms/ADTimplementations/sabado.pdf) | [Enlace](Algorithms/ADTimplementations/sabado) |
 
 ### Tipos de datos lineales
 
