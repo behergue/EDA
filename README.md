@@ -94,7 +94,7 @@ Este repositorio contiene una conjunto de problemas tomados del curso en algorit
 | Altura de un árbol general  | [Enlace](Algorithms/Trees/altura.pdf) | [Enlace](Algorithms/Trees/altura) |
 | Árboles genealógicos | [Enlace](Algorithms/Trees/genealogicos.pdf) | [Enlace](Algorithms/Trees/genealogicos) |
 | Árboles zurdos | [Enlace](Algorithms/Trees/zurdos.pdf) | [Enlace](Algorithms/Trees/zurdos) |
-| Árbol simétrico | [Enlace](Algorithms/Trees/simetrico.pdf) | [Enlace](Algorithms/Trees/simetrico) |
+| Árbol binario simétrico | [Enlace](Algorithms/Trees/simetrico.pdf) | [Enlace](Algorithms/Trees/simetrico) |
 | Diámetro de un árbol binario | [Enlace](Algorithms/Trees/diametro.pdf) | [Enlace](Algorithms/Trees/diametro) |
 | Elemento mínimo de un árbol   | [Enlace](Algorithms/Trees/minimo.pdf) | [Enlace](Algorithms/Trees/minimo) |
 | ¿Es un árbol binario de búsqueda? | [Enlace](Algorithms/Trees/binario.pdf) | [Enlace](Algorithms/Trees/binario) |
