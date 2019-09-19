@@ -70,10 +70,10 @@ Este repositorio contiene una conjunto de problemas tomados del curso en algorit
 | ----------------------------------------------------------------- |:-------------:| :-------------:|
 | Borrar uno de cada dos | [Enlace](Algorithms/Queues/borrar.pdf) | [Enlace](Algorithms/Queues/borrar) |
 | Coge el sobre y corre | [Enlace](Algorithms/Queues/sobre.pdf) | [Enlace](Algorithms/Queues/sobre) |
-| Decodificación de mensajes | [Enlace](Algorithms/Queues/decodificacion.pdf) | [Enlace](Algorithms/Queues/decodificacion) |
+| Decodificación de mensajes | [Enlace](Algorithms/Queues/decodificacion.pdf) | [Enlace](Algorithms/Queues/decodificacion.cpp) |
 | Duplicar una lista | [Enlace](Algorithms/Queues/duplicar.pdf) | [Enlace](Algorithms/Queues/duplicar) |
 | El alumno afortunado | [Enlace](Algorithms/Queues/alumno.pdf) | [Enlace](Algorithms/Queues/alumno) |
-| El juego de la linterna |[Enlace](Algorithms/Queues/linterna.pdf) | [Enlace](Algorithms/Queues/linterna) |
+| El juego de la linterna |[Enlace](Algorithms/Queues/linterna.pdf) | [Enlace](Algorithms/Queues/linterna.cpp) |
 | Engordar una lista enlazada | [Enlace](Algorithms/Queues/engordar.pdf) | [Enlace](Algorithms/Queues/engordar) |
 | Hacer lista enlazada creciente| [Enlace](Algorithms/Queues/creciente.pdf) | [Enlace](Algorithms/Queues/creciente) |
 | Insertar elementos en una lista | [Enlace](Algorithms/Queues/insertar.pdf) | [Enlace](Algorithms/Queues/insertar) |
@@ -82,7 +82,7 @@ Este repositorio contiene una conjunto de problemas tomados del curso en algorit
 | Invertir un segmento de una lista enlazada|[Enlace](Algorithms/Queues/invertir.pdf)|[Enlace](Algorithms/Queues/invertir)|
 | Lower bound | [Enlace](Algorithms/Queues/lower.pdf) | [Enlace](Algorithms/Queues/lower) |
 | Mezclar listas enlazadas ordenadas|[Enlace](Algorithms/Queues/mezclar.pdf) | [Enlace](Algorithms/Queues/mezclar) |
-| Paréntesis equilibrados|[Enlace](Algorithms/Queues/parentesis.pdf) | [Enlace](Algorithms/Queues/parentesis) |
+| Paréntesis equilibrados|[Enlace](Algorithms/Queues/parentesis.pdf) | [Enlace](Algorithms/Queues/parentesis.cpp) |
 | Reordenando la cola | [Enlace](Algorithms/Queues/reordenando.pdf) | [Enlace](Algorithms/Queues/reordenando) |
 | Un viaje a la luna | [Enlace](Algorithms/Queues/luna.pdf) | [Enlace](Algorithms/Queues/luna) |
 
@@ -101,7 +101,7 @@ Este repositorio contiene una conjunto de problemas tomados del curso en algorit
 | Excursionistas atrapados | [Enlace](Algorithms/Trees/excursionistas.pdf) | [Enlace](Algorithms/Trees/excursionistas) |
 | La barrera de los primos | [Enlace](Algorithms/Trees/barrera.pdf) | [Enlace](Algorithms/Trees/barrera) |
 | La frontera   |[Enlace](Algorithms/Trees/frontera.pdf) | [Enlace](Algorithms/Trees/frontera) |
-| Los becarios precarios  | [Enlace](Algorithms/Trees/becarios.pdf) | [Enlace](Algorithms/Trees/becarios) |
+| Los becarios precarios  | [Enlace](Algorithms/Trees/becarios.pdf) | [Enlace](Algorithms/Trees/becarios.cpp) |
 | Nodos, hojas y altura    | [Enlace](Algorithms/Trees/nodos.pdf) | [Enlace](Algorithms/Trees/nodos) |
 | Reconstrucción de un árbol binario | [Enlace](Algorithms/Trees/reconstruccion.pdf) | [Enlace](Algorithms/Trees/reconstruccion) |
 | Reconstrucción de un árbol binario de búsqueda | [Enlace](Algorithms/Trees/busqueda.pdf) | [Enlace](Algorithms/Trees/busqueda) |
