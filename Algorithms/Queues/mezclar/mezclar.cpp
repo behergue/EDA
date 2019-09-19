@@ -1,4 +1,4 @@
-//Beatriz Herguedas Pinedo, DG209
+//Beatriz Herguedas Pinedo
 
 #include "queue_eda.h"
 
@@ -44,7 +44,7 @@ public:
 		Nodo* aux = this->prim;
 		Nodo* aux2 = colaSecundaria.prim;
 
-		//la primera lista está vacía
+		//la primera lista estÃ¡ vacÃ­a
 		if (!colaSecundaria.empty()) {
 			if (this->empty()) {
 				this->prim = colaSecundaria.prim;
