@@ -126,6 +126,5 @@ Este repositorio contiene una conjunto de problemas tomados del curso en algorit
 | Carnent por puntos1 | [Enlace](Algorithms/ADTapplications/carnet1.pdf) | [Enlace](Algorithms/ADTapplications/carnet1) |
 | Carnent por puntos2 | [Enlace](Algorithms/ADTapplications/carnet2.pdf) | [Enlace](Algorithms/ADTapplications/carnet2) |
 | Consultorio médico | [Enlace](Algorithms/ADTapplications/consultorio.pdf) | [Enlace](Algorithms/ADTapplications/consultorio) |
-| iPud  |[Enlace](Algorithms/ADTapplications/ipud.pdf) | [Enlace](Algorithms/ADTapplications/ipud) |
+| iPud  |[Enlace](Algorithms/ADTapplications/ipud.pdf) | [Enlace](Algorithms/ADTapplications/iPud) |
 | Venta de libros | [Enlace](Algorithms/ADTapplications/venta.pdf) | [Enlace](Algorithms/ADTapplications/venta) |
-
