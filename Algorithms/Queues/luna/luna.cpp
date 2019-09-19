@@ -1,4 +1,4 @@
-//Beatriz Herguedas Pinedo, DG209
+//Beatriz Herguedas Pinedo
 
 #include "list_eda.h"
 #include "persona.h"
