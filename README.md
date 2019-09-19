@@ -60,7 +60,7 @@ Este repositorio contiene una conjunto de problemas tomados del curso en algorit
 | ----------------------------------------------------------------- |:-------------:| :-------------:|
 | ¿A qué hora pasa el próximo tren?|[Enlace](Algorithms/ADTimplementations/tren.pdf)|[Enlace](Algorithms/ADTimplementations/tren) |
 | Evaluar un polinomio  |[Enlace](Algorithms/ADTimplementations/polinomio.pdf) | [Enlace](Algorithms/ADTimplementations/polinomio) |
-| Los k elementos mayores | [Enlace](Algorithms/ADTimplementations/mayores.pdf) | [Enlace](Algorithms/Dv/mayores) |
+| Los k elementos mayores | [Enlace](Algorithms/ADTimplementations/mayores.pdf) | [Enlace](Algorithms/ADTimplementations/mayores) |
 | Mandelbrot| [Enlace](Algorithms/ADTimplementations/mandelbrot.pdf) | [Enlace](Algorithms/ADTimplementations/mandelbrot) |
 | Una tarde de sábado  | [Enlace](Algorithms/ADTimplementationsv/sabado.pdf) | [Enlace](Algorithms/ADTimplementations/sabado) |
 
