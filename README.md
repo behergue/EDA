@@ -4,7 +4,7 @@
 This repository contains a collection of problems from the course on algorithms and data structures at [UCM](https://www.ucm.es/ "Universidad Complutense de Madrid"). The problems are currently being used as exercises in the subjects of [*Fundamentals of Algorithms*](https://www.ucm.es/estudios/grado-ingenieriainformatica-plan-805357 "Fundamentals of Algorithms at UCM") and [*Data Structures*](https://www.ucm.es/estudios/grado-ingenieriainformatica-plan-805358 "Data Structures at UCM") at the same university. 
 
 **[Español]**
-Este repositorio contiene una conjunto de problemas tomados del curso en algoritmos y estructuras de datos en la [UCM](https://www.ucm.es/ "Universidad Complutense de Madrid"). Los problemas son actualmente usados como ejercicios en la asignaturas de [*Fundamentos de Algoritmia*](https://www.ucm.es/estudios/grado-ingenieriainformatica-plan-805357 "Fundamentos de Algoritmia en la UCM") y [*Estructuras de Datos*](https://www.ucm.es/estudios/grado-ingenieriainformatica-plan-805358 "Estructuras de Datos en la UCM") en la misma universidad. 
+Este repositorio contiene un conjunto de problemas tomados del curso en algoritmos y estructuras de datos en la [UCM](https://www.ucm.es/ "Universidad Complutense de Madrid"). Los problemas son actualmente usados como ejercicios en la asignaturas de [*Fundamentos de Algoritmia*](https://www.ucm.es/estudios/grado-ingenieriainformatica-plan-805357 "Fundamentos de Algoritmia en la UCM") y [*Estructuras de Datos*](https://www.ucm.es/estudios/grado-ingenieriainformatica-plan-805358 "Estructuras de Datos en la UCM") en la misma universidad. 
 
 ## Fundamentals of Algorithms / Fundamentos de Algoritmia
 
